@@ -15,24 +15,24 @@ const EducationSection = () => {
 
   const educationData = [
     {
-      degree: "Secondary School Certificate (SSC)",
-      school: "Natore Textile Institute",
+      degree: "Bachelor's in Computer Application",
+      school: "St Aloysius College Mangalore",
       mascot: "📘",
-      year: "2019-2021",
-      achievements: ["GPA: 4.89", "Subject: Science"],
-      skills: ["Mathematics", "Physics", "Chemistry", "Biology"],
+      year: "2020-2023",
+      achievements: ["CGPA: 8.25"],
+      skills: ["Python", "Java", "C", "Web","Cloud"],
       description:
-        "Focused on core science subjects with emphasis on practical laboratory work and scientific research methodologies.",
+        "Focused on computer science fundamentals with emphasis on programming, software development, and practical IT applications.",
     },
     {
-      degree: "Higher Secondary Certificate (HSC)",
-      school: "Dottopara Model Degree College",
+      degree: "Master's in Computer Application",
+      school: "PES University Bangalore",
       mascot: "📗",
-      year: "2021-2023",
-      achievements: ["GPA: 4.25", "Subject: Arts"],
-      skills: ["Literature", "Social Studies", "Economics", "History"],
+      year: "2023-2025",
+      achievements: ["CGPA: 8.4"],
+      skills: ["MERN", "MEAN","Android Development", "DSA", "Cyber Security"],
       description:
-        "Developed strong analytical and critical thinking skills through comprehensive study of humanities and social sciences.",
+        "Focused on advanced computer science concepts with emphasis on software engineering, system design, and research-oriented applications.",
     },
   ];
 

@@ -12,6 +12,7 @@ import {
   FaLinux,
   FaFigma,
   FaAws,
+  FaAndroid,
 } from "react-icons/fa";
 import {
   SiNextdotjs,
@@ -173,7 +174,7 @@ const SkillsSection = () => {
           name: "VS Code",
           icon: <TbBrandVscode className="w-4 h-4 text-[#007ACC]" />,
         },
-        { name: "Jest", icon: <SiJest className="w-4 h-4 text-[#C21325]" /> },
+       
         {
           name: "Webpack",
           icon: <SiWebpack className="w-4 h-4 text-[#8DD6F9]" />,
@@ -183,8 +184,9 @@ const SkillsSection = () => {
           name: "Firebase",
           icon: <SiFirebase className="w-4 h-4 text-[#FFCA28]" />,
         },
-        { name: "Vercel", icon: <SiVercel className="w-4 h-4 text-white" /> },
         { name: "Vite", icon: <SiVite className="w-4 h-4 text-[#646CFF]" /> },
+        { name: "Android Studio", icon: <FaAndroid className="w-4 h-4 text-[#3DDC84]" /> },
+        { name: "Atom", icon: <TbBrandVscode className="w-4 h-4 text-[#66595C]" /> },
       ],
     },
     {
