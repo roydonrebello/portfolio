@@ -5,45 +5,45 @@ import PropTypes from "prop-types";
 
 const projects = [
   {
-    title: "Olova! A Lightweight JavaScript Library",
+    title: "Essentials Connect – Donation Management Platform ",
     description:
-      "A lightweight JavaScript library for creating beautiful, responsive UI components.",
+      "A mobile platform using Kotlin and Firebase to connect donors with NGOs for efficient distribution of surplus resources like food, clothing, and books.",
     src: "rock.jpg",
-    link: "https://i.postimg.cc/DwgWTfP0/Annotation-2025-03-19-113338.png",
+    link: "https://cdn.dribbble.com/userupload/34792171/file/original-03693991b53b322e5bc8bf8c0b89d270.png?resize=752x&vertical=center",
     color: "#5196fd",
-    githubLink: "https://github.com/olovajs/olova",
-    liveLink: "https://olova.js.org/",
+    githubLink: "#",
+    liveLink: "#",
   },
   {
-    title: "A sleek portfolio built with React and Tailwind CSS ",
+    title: "Cloud Kitchen System  ",
     description:
-      "A sleek portfolio built with React and Tailwind CSS to showcase your skills, projects, and experience in a modern design.",
+      "Developed Cloud Kitchen System, a web-based platform for food ordering, catering, and bakery services, allowing customers to place orders and businesses to manage inventory, orders, and deliveries efficiently",
     src: "tree.jpg",
-    link: "https://i.postimg.cc/J75CKyrs/Annotation-2025-04-01-203959.png",
+    link: "https://media.licdn.com/dms/image/v2/D5612AQHVo1Yv5cPmeA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1670783967225?e=2147483647&v=beta&t=UUyKqaq7xBNzHagjVhVD3WR8Zu73_cjKyVj7NvgiGLo",
     color: "#8f89ff",
-    githubLink: "https://github.com/seraprogrammer/portfolio",
-    liveLink: "https://codervai.vercel.app",
+    githubLink: "https://github.com/roydonrebello/Cloud-Kitchen",
+    liveLink: "#",
   },
-  {
-    title: "🚀 CodeWhisperer",
-    description:
-      "🚀 CodeWhisperer A powerful online code editor built with React and Tailwind CSS. Featuring real-time code execution, syntax highlighting, multi-language support, and a sleek UI. Start coding instantly! 💻✨",
-    src: "water.jpg",
-    link: "https://i.postimg.cc/J4jPVFY0/Annotation-2025-04-01-204723.png",
-    color: "#fff",
-    githubLink: "https://github.com/seraprogrammer/codewhisperer",
-    liveLink: "https://codewhisperer.vercel.app/",
-  },
-  {
-    title: "CodeKori 🔥",
-    description:
-      "CodeKori is a powerful online code editor built with React and Tailwind CSS. Featuring real-time code execution, syntax highlighting, multi-language support, and a sleek UI. Start coding instantly! 💻✨",
-    src: "house.jpg",
-    link: "https://i.postimg.cc/cHQr4fpR/Annotation-2025-04-01-205350.png",
-    color: "#ed649e",
-    githubLink: "https://github.com/seraprogrammer/CodeKori",
-    liveLink: "https://codekori.js.org",
-  },
+  // {
+  //   title: "🚀 CodeWhisperer",
+  //   description:
+  //     "🚀 CodeWhisperer A powerful online code editor built with React and Tailwind CSS. Featuring real-time code execution, syntax highlighting, multi-language support, and a sleek UI. Start coding instantly! 💻✨",
+  //   src: "water.jpg",
+  //   link: "https://i.postimg.cc/J4jPVFY0/Annotation-2025-04-01-204723.png",
+  //   color: "#fff",
+  //   githubLink: "https://github.com/seraprogrammer/codewhisperer",
+  //   liveLink: "https://codewhisperer.vercel.app/",
+  // },
+  // {
+  //   title: "CodeKori 🔥",
+  //   description:
+  //     "CodeKori is a powerful online code editor built with React and Tailwind CSS. Featuring real-time code execution, syntax highlighting, multi-language support, and a sleek UI. Start coding instantly! 💻✨",
+  //   src: "house.jpg",
+  //   link: "https://i.postimg.cc/cHQr4fpR/Annotation-2025-04-01-205350.png",
+  //   color: "#ed649e",
+  //   githubLink: "https://github.com/seraprogrammer/CodeKori",
+  //   liveLink: "https://codekori.js.org",
+  // },
 ];
 
 export default function Projects() {
