@@ -19,7 +19,7 @@ const projects = [
     description:
       "Developed Cloud Kitchen System, a web-based platform for food ordering, catering, and bakery services, allowing customers to place orders and businesses to manage inventory, orders, and deliveries efficiently",
     src: "tree.jpg",
-    link: "https://media.licdn.com/dms/image/v2/D5612AQHVo1Yv5cPmeA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1670783967225?e=2147483647&v=beta&t=UUyKqaq7xBNzHagjVhVD3WR8Zu73_cjKyVj7NvgiGLo",
+    link: "https://posbytz.com/wp-content/uploads/2023/11/main-banner-01.png",
     color: "#8f89ff",
     githubLink: "https://github.com/roydonrebello/Cloud-Kitchen",
     liveLink: "#",
